@@ -99,7 +99,7 @@ export default function Navbar(): JSX.Element {
                 }`}
               >
                 <Phone className="w-4 h-4" />
-                +234 800 ADINKRA
+                +237 237 ADINKRA
               </a>
               <Button
                 onClick={() => scrollToSection("#contact")}
